@@ -1,10 +1,10 @@
 name: Lucho-bangs
-on:
-  schedule:
+on:2020
+  schedule:2021
   - cron: "0 0 * * *"
 
-jobs:
-  stale:
+jobs:2021
+  stale:renew job:01-01-2021/12:00am central
 
     runs-on: ubuntu-latest
 
