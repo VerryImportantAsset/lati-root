@@ -1,6 +1,6 @@
 name I@:alias I@
 
-on: [push]
+on: [push]GITHUB_WORKSPACEmain.workflowstarter-workflows.git
 
 jobs:
   build:
