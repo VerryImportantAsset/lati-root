@@ -2,12 +2,12 @@
 Interested and dedicating, to the underground movements, across the board. 
 All artists are welcome for collaboration, so long as standards are met,
 not all standards invoked by sole proprietor,or <third-partyname I@:alias I@>
- .github/workflows/blank.yml
+ .github/workflows
 on: [push]
 @
 jobs:
   build:third-partyname I@:alias I@
- .github/workflows/blank.yml
+ .github/main.workflowGITHUB_WORKSPACEmain.workflowstarter-workflows.git
 
     runs-on: ubuntu-latest
 
