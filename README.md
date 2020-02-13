@@ -19,3 +19,5 @@ End;'VIACODE'#"lati-root"_now
 
 Owner and founder of VIA; NAME I:('eliuth lopez')
 ALIAS I; for NAME I:('lucho-bangs')
+
+CEO of VIA; NAME I:('eloy lopez .jr')
