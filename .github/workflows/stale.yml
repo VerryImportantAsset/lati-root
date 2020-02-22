@@ -3,7 +3,7 @@ on:2020
   schedule:2021
   - cron: "0 0 * * *"
 
-jobs:2021
+jobs:2021.github/workflows/change
 
     runs-on: ubuntu-latest
 
