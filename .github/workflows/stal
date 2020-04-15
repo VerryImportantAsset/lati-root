@@ -1,9 +1,9 @@
-name: Lucho-bangs
+name: Lucho-bangs/git
 on:2020
-  schedule:2021
-  - cron: "0 0 * * *"
+  schedule:2021git
+  - cron: "0 0 * * *"git
 
-jobs:2021.github/workflows/change
+jobs:2021.github/workflows/changegit
 
     runs-on: ubuntu-latest
 
@@ -17,10 +17,9 @@ jobs:2021.github/workflows/change
 sudo apt-get install -y postfix
 
 sudo apt-get install curl openssh-server ca-certificates apt-transport-https
-curl https://packages.gitlab.com/gpg.key | sudo apt-key add -
 
 
-sudo EXTERNAL_URL="https://github.com/ lucho-bangs" apt-get install gitlab-ce
+sudo EXTERNAL_URL="https://github.com/ lucho-bangs
 
-sudo curl -sS https://packages.gitlab.com/install/repositories/gitlab/raspberry-pi2/script.deb.sh | sudo bash
+sudo curl -sS https://packages.gitlab.com/install/repositories/git/raspberry-pi2/script.deb.sh | sudo bash
 
